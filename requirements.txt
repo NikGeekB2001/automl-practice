@@ -1,0 +1,13 @@
+# Основные пакеты
+pyspark==3.5.3
+pandas>=1.3.0
+
+# Машинное обучение
+scikit-learn
+
+# Визуализация
+matplotlib
+
+mlflow 
+
+# pip install -r requirements.txt
